@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '6078'
     url: http://www.gutenberg.org/2009/agents/6078
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15464#Foods-That-Will-Win-The-War-And-How-To-Cook-Them--1918-
 gutenberg_bookshelf:
 - World War I
 - Cookery
